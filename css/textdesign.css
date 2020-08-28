@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+body{font-family:Balsamiq Sans}
+*{margin:0px;padding;0px}
+
+
+h1{font-family:Segoe UI Black;color:tomato}
+
+.pubgimage{display:block;margin:auto}
+
+h1.new {font-family:Segoe UI Black;color:blue}
+
+
+button#newstyle{background:green;color:white;border:1px solid black}
+
+
+
+.trial{width:980px;margin:auto}
+
+
+.firstthing{border:10px solid green;width:990px;margin:auto}
+.header{background:black;color:white;padding:20px;text-align:center}
+.header h1{margin:0}
+.middle{color:black;padding:20px;overflow:hidden}
+.footer{background:tomato;color:black;padding:30px;text-align:center}
+.footer h3{margin:0}
+.sidebar ul{padding:0px;list-style:none}
+.sidebar li a{text-decoration:none}
+.sidebar{float:left;width:200px;background:gray;color:white;box-shadow:5px 5px 20px red;text-align:center}
+.sidebar h4{text-align:center}
+.description{float:right;width:700px}
+
+
+.header_area{}
+.container{width:1140px;margin:auto;padding:0px 12px;border-bottom:3px solid orange}
+.container .logo{width:100px;}
+.header_inner{display:table;padding:8px 0px}
+.header_left{width:200px;float:left;background-color:#FFFFFF}
+.header_right{width:800px;float:right;}
+.header_right ul{list-style:none;margin:0px;padding:0px;float:right;margin-top:20px}
+.header_right ul li{display:inline-block}
+.header_right ul li a{text-decoration:none;text-transform:uppercase;font-size:24px;padding:10px 16px;color:#333;transition:all 0.5s}
+.header_right ul li a:hover{background:#333;color:white;border-radius:4px}
